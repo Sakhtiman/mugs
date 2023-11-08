@@ -1,3 +1,4 @@
+<img width="914" alt="Screenshot 2023-11-08 165223" src="https://github.com/Sakhtiman/mugs/assets/134630688/a52e17bd-6eed-443f-a4e5-7d0fca05b77c">
 # FastAPI User Management System
 
 This is a simple user management system implemented with FastAPI, Firebase, and Pyrebase.
