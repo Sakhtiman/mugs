@@ -83,5 +83,5 @@ POST /password-reset/reset: Reset the user's password.
 
 Postman Documentation Links Validation
 Postman Collection (Mugs)
-
+https://www.postman.com/orbital-module-specialist-67685748/workspace/mugs/collection/31009994-bb5a3bbc-24a2-43da-b250-33e3093292cd?action=share&creator=31009994
 I've added the "Postman Collection (Mugs)" section as you requested.
