@@ -62,13 +62,24 @@ Make sure your FastAPI server is running.
 
 Execute the tests using the following command:
 pytest test_main.py
-
+<img width="947" alt="Screenshot 2023-11-08 164832" src="https://github.com/Sakhtiman/mugs/assets/134630688/dd8dae0f-abab-4d22-8f82-086436aa94f5">
 API Endpoints
 POST /register: Register a new user.
+<img width="906" alt="Screenshot 2023-11-08 164949" src="https://github.com/Sakhtiman/mugs/assets/134630688/20ba8adb-2767-43a1-bb6d-f8a354008d07">
+
 POST /login: Log in a user and get an authentication token.
+<img width="932" alt="Screenshot 2023-11-08 165041" src="https://github.com/Sakhtiman/mugs/assets/134630688/94f37811-2f22-4992-9830-ade1eba2b9e0">
+
 GET /uid: Get the user's UID using an authentication token.
 GET /profile: Get the user's profile.
+<img width="935" alt="Screenshot 2023-11-08 165133" src="https://github.com/Sakhtiman/mugs/assets/134630688/3cbe7f78-3a08-4cdd-bd04-15c175011b36">
+
+
 PUT /profile/update: Update the user's profile (name, full_name, email).
 DELETE /profile/delete: Delete the user's account.
 POST /password-reset/request: Request a password reset.
+<img width="914" alt="Screenshot 2023-11-08 165223" src="https://github.com/Sakhtiman/mugs/assets/134630688/6eb77bfe-e9d8-4d30-9584-60fad33d65c5">
+
 POST /password-reset/reset: Reset the user's password.
+
+
