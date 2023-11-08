@@ -10,6 +10,7 @@ This is a simple user management system implemented with FastAPI, Firebase, and 
 - [Usage](#usage)
 - [Testing](#testing)
 - [API Endpoints](#api-endpoints)
+- [postman collection(mugs)](#api-endpoints)
 
 
 ## Features
@@ -81,5 +82,5 @@ POST /password-reset/request: Request a password reset.
 
 POST /password-reset/reset: Reset the user's password.
 
-**postman documentation links validation:
+##postman documentation links validation:
 https://www.postman.com/orbital-module-specialist-67685748/workspace/mugs/collection/31009994-bb5a3bbc-24a2-43da-b250-33e3093292cd?action=share&creator=31009994
