@@ -1,0 +1,21 @@
+User Registration:
+Create an API endpoint to register new users.
+Store the following user information in Firestore:
+1. username,
+2. email,
+3. full name,
+4. created_at timestamp.
+Use Firebase Authentication to handle the actual user creation.
+Ensure passwords are not stored in Firestore.
+User Login:
+Created an API endpoint to log in users.
+On successful login, return a Firebase Auth token to the user.
+User Profile:
+Created API endpoints to allow users to retrieve and update their profile information (excluding
+password).
+Created an API endpoint to delete a user account.
+Validation and Security:
+Implemented input validation for all user inputs.
+Secured the API endpoints so that only authenticated users can access their profiles.
+
+(ALL ARE DONE CAN CHECK IN SOURCE CODE)
